@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Apr 27, 2018 at 05:31 PM
+-- Generation Time: Apr 27, 2018 at 06:18 PM
 -- Server version: 5.7.19
 -- PHP Version: 5.6.31
 
@@ -48,8 +48,8 @@ INSERT INTO `user` (`id`, `first_name`, `last_name`, `email`, `password`, `last_
 (8, 'Carrie', 'Mathison', 'carrie@gmail.com', 'Carrie', '2018-04-27 10:28:26', 0),
 (9, 'Alan', 'Bernad', 'alan@gmail.com', 'Alan', '2018-04-27 10:30:17', 0),
 (10, 'Ariana', 'Grande', 'ariana@gmail.com', 'Ariana', '2018-04-27 10:31:04', 0),
-(5, 'Saul', 'Barenson', 'saul@gmail.com', 'saul', '2018-04-24 16:20:11', 0),
-(6, 'Peter', 'Quine', 'peter@gmail.com', 'peter', '2018-04-24 16:20:31', 0);
+(5, 'Saul', 'Barenson', 'saul@gmail.com', 'Saul', '2018-04-27 11:17:19', 0),
+(6, 'Peter', 'Quine', 'peter@gmail.com', 'Peter', '2018-04-24 16:20:31', 0);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
